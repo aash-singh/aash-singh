@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ashish Pratap Singh
+- 👀 I’m interested in web development and data science
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on web dev and python projects
+- 📫 You can reach me at singhashishpratap66@gmail.com
